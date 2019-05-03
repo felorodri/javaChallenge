@@ -27,20 +27,19 @@ In order to run this project you will need:
 
 ## Getting Started
 
-
-    1. Clone this repo running the command:
+1. Clone this repo running the command:
 
 	```
 	git clone https://github.com/felorodri/javaChallenge.git
 	```
 
-    1. To execute this project run in project root folder the following command:
+2. To execute this project run in project root folder the following command:
 
 	```
 	java src/main/java/TenPinBowling [path/to/gameResultFile]
 	```
 
-    **Notice:** replace [path/to/gameResultFile] for the .txt file which contains the game data.
+**Notice:** replace [path/to/gameResultFile] for the .txt file which contains the game data.
 
 
 These instructions will get you a copy of the project up and ready to run on your local machine for development and testing purposes.
