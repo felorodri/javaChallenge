@@ -44,9 +44,6 @@ In order to run this project you will need:
 
 These instructions will get you a copy of the project up and ready to run on your local machine for development and testing purposes.
 
-### Installation, Project configuration & Deployment
-
-    Section under construction
 
 ## Authors
 
